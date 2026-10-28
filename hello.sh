@@ -10,3 +10,6 @@ df -h/
 echo ""
 echo "Bash script executed successfully!"
 
+#!/bin/bash
+echo "Hello DevOps"
+
